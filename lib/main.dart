@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter/foundation.dart';
 import 'package:tindapp/blocs/tindap_bloc.dart';
 import 'package:tindapp/blocs/tindap_event.dart';
 import 'package:tindapp/ui/tindap_screen.dart';
